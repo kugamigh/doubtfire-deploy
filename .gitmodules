@@ -7,3 +7,6 @@
 [submodule "doubtfire-overseer"]
 	path = doubtfire-overseer
 	url = https://github.com/doubtfire-lms/doubtfire-overseer.git
+[submodule "doubtfire-speaker-verification"]
+	path = doubtfire-speaker-verification
+	url = https://github.com/doubtfire-lms/doubtfire-speaker-verification.git
